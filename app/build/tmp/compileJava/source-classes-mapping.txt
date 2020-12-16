@@ -1,6 +1,45 @@
-com/nicolaszarcero/melody/Invite.java
- com.nicolaszarcero.melody.Invite
-com/nicolaszarcero/melody/Help.java
- com.nicolaszarcero.melody.Help
+com/nicolaszarcero/melody/command/ICommand.java
+ com.nicolaszarcero.melody.command.ICommand
+com/nicolaszarcero/melody/command/commands/music/StopCommand.java
+ com.nicolaszarcero.melody.command.commands.music.StopCommand
+com/nicolaszarcero/lavaplayer/AudioPlayerSendHandler.java
+ com.nicolaszarcero.lavaplayer.AudioPlayerSendHandler
+com/nicolaszarcero/lavaplayer/PlayerManager.java
+ com.nicolaszarcero.lavaplayer.PlayerManager
+ com.nicolaszarcero.lavaplayer.PlayerManager$1
+com/nicolaszarcero/lavaplayer/GuildMusicManager.java
+ com.nicolaszarcero.lavaplayer.GuildMusicManager
+com/nicolaszarcero/melody/command/commands/music/JoinCommand.java
+ com.nicolaszarcero.melody.command.commands.music.JoinCommand
+com/nicolaszarcero/melody/command/commands/music/LeaveCommand.java
+ com.nicolaszarcero.melody.command.commands.music.LeaveCommand
+com/nicolaszarcero/melody/command/CommandContext.java
+ com.nicolaszarcero.melody.command.CommandContext
+com/nicolaszarcero/melody/command/commands/InviteCommand.java
+ com.nicolaszarcero.melody.command.commands.InviteCommand
+com/nicolaszarcero/lavaplayer/TrackScheduler.java
+ com.nicolaszarcero.lavaplayer.TrackScheduler
+com/nicolaszarcero/melody/command/commands/music/QueueCommand.java
+ com.nicolaszarcero.melody.command.commands.music.QueueCommand
+com/nicolaszarcero/melody/Config.java
+ com.nicolaszarcero.melody.Config
+com/nicolaszarcero/melody/CommandManager.java
+ com.nicolaszarcero.melody.CommandManager
+com/nicolaszarcero/melody/command/commands/music/RepeatCommand.java
+ com.nicolaszarcero.melody.command.commands.music.RepeatCommand
+com/nicolaszarcero/melody/command/commands/music/NowPlayingCommand.java
+ com.nicolaszarcero.melody.command.commands.music.NowPlayingCommand
+com/nicolaszarcero/melody/command/commands/music/SeekCommand.java
+ com.nicolaszarcero.melody.command.commands.music.SeekCommand
+com/nicolaszarcero/melody/Listener.java
+ com.nicolaszarcero.melody.Listener
+com/nicolaszarcero/melody/command/commands/music/PlayCommand.java
+ com.nicolaszarcero.melody.command.commands.music.PlayCommand
+com/nicolaszarcero/melody/command/commands/music/SkipCommand.java
+ com.nicolaszarcero.melody.command.commands.music.SkipCommand
 com/nicolaszarcero/melody/Bot.java
  com.nicolaszarcero.melody.Bot
+com/nicolaszarcero/melody/command/commands/HelpCommands.java
+ com.nicolaszarcero.melody.command.commands.HelpCommands
+com/nicolaszarcero/melody/command/commands/ServerInfoCommand.java
+ com.nicolaszarcero.melody.command.commands.ServerInfoCommand
