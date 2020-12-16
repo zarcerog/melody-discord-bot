@@ -1,0 +1,6 @@
+com/nicolaszarcero/melody/Invite.java
+ com.nicolaszarcero.melody.Invite
+com/nicolaszarcero/melody/Help.java
+ com.nicolaszarcero.melody.Help
+com/nicolaszarcero/melody/Bot.java
+ com.nicolaszarcero.melody.Bot
